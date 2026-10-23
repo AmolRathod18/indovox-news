@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="INDOVOX news image placeholder">
+  <rect width="1200" height="750" fill="#171717"/>
+  <path d="M0 570 340 370l170 100 250-235 440 335v180H0z" fill="#262626"/>
+  <circle cx="870" cy="190" r="78" fill="#c5222a"/>
+  <text x="72" y="625" fill="#fff" font-family="Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-4">INDO<tspan fill="#ff8a00">VOX</tspan></text>
+  <text x="76" y="675" fill="#bdbdbd" font-family="Arial,sans-serif" font-size="22" letter-spacing="7">THE VOICE OF INDIA</text>
+</svg>
